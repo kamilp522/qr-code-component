@@ -40,4 +40,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Acknowledgements
 
-I want to focus on mastering the basics of front end development, mainly I responsive design.
+I want to focus on mastering the basics of front end development, mainly responsive design.
