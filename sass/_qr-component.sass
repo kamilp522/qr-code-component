@@ -1,0 +1,56 @@
+.card_background
+    display: flex
+    justify-content: center
+    background-color: $light-gray
+    height: 100%
+    min-height: calc(100vh - 0.1px)
+    width: 100%
+
+    .card_container
+        align-self: center
+        display: flex
+        flex-direction: column
+        justify-content: space-between
+        height: 87.5%
+        max-height: 520px
+        width: 85%
+        max-width: 335px
+        background-color: white
+        border-radius: 15px
+        padding: 1em
+
+        @include mobile_medium
+            height: 75%
+
+        .img_wrapper
+            display: flex
+            
+            .qr_img
+                content: url("../images/image-qr-code.png")
+                width: 100%
+                max-width: 576px
+                object-fit: contain
+                border-radius: 15px
+
+        .card_descriptions 
+            text-align: center
+            font-family: $outfit
+            padding: 1.5em 1em
+            flex-grow: 1
+            align-self: center
+
+            @include mobile_medium
+                padding: 2em 1em
+            
+
+            .topline
+                font-size: 1.375rem
+                font-weight: 700
+                padding-bottom: 0.5em
+
+            .bottomline
+                font-size: 0.9375rem
+                color: $grayish-blue
+                padding-top: 0.5em
+                
+    
