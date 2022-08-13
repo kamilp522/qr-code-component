@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-card-component-made-with-sass-and-flexbox-UxTE5c4PIZ)
-- Live Site URL: [Add live site URL here](https://kamilp522.github.io/qr-code-component)
+- [Solution on frontendmentor.io](https://www.frontendmentor.io/solutions/qr-code-card-component-made-with-sass-and-flexbox-UxTE5c4PIZ)
+- [Live site on github pages](https://kamilp522.github.io/qr-code-component)
 
 ## My process
 
